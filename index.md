@@ -14,7 +14,7 @@ I am also affiliated with the [CDT in Data Science programme](http://datascience
 
 ### Publication
 
-- __Clara Vania__, Xingxing Zhang, and Adam Lopez. *UParse: the Edinburgh system for the CoNLL 2017 UD shared task.* __CoNLL 2017 UD Shared Task__
+- __Clara Vania__, Xingxing Zhang, and Adam Lopez. *UParse: the Edinburgh system for the CoNLL 2017 UD shared task.* __CoNLL 2017 UD Shared Task__ [[pdf]](http://universaldependencies.org/conll17/proceedings/pdf/K17-3010.pdf) [[bib]](http://universaldependencies.org/conll17/proceedings/bib/K17-3010.bib)
 
 - __Clara Vania__ and Adam Lopez. *From characters to words to in between: Do we capture morphology?* __ACL 2017__ [[arXiv]](https://arxiv.org/abs/1704.08352)
 
