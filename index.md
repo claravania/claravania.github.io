@@ -16,7 +16,7 @@ I am also affiliated with the [CDT in Data Science programme](http://datascience
 
 - __Clara Vania__, Xingxing Zhang, and Adam Lopez. *UParse: the Edinburgh system for the CoNLL 2017 UD shared task.* __CoNLL 2017 UD Shared Task__ [[pdf]](http://universaldependencies.org/conll17/proceedings/pdf/K17-3010.pdf) [[bib]](http://universaldependencies.org/conll17/proceedings/bib/K17-3010.bib)
 
-- __Clara Vania__ and Adam Lopez. *From characters to words to in between: Do we capture morphology?* __ACL 2017__ [[arXiv]](https://arxiv.org/abs/1704.08352)
+- __Clara Vania__ and Adam Lopez. *From characters to words to in between: Do we capture morphology?* __ACL 2017__ [[pdf]](http://www.aclweb.org/anthology/P17-1184) [[bib]](https://aclanthology.info/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf)
 
 - Alfan Farizki Wicaksono, __Clara Vania__, Bayu Distiawan, and Mirna Adriani. *Automatically Building a Corpus for Sentiment Analysis on Indonesian Tweets.* __PACLIC 2014__ [[pdf]](http://www.aclweb.org/anthology/Y/Y14/Y14-1024.pdf) [[bib]](http://www.aclweb.org/anthology/Y/Y14/Y14-1024.bib)
 
