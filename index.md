@@ -41,10 +41,8 @@ I am also affiliated with the [CDT in Data Science programme](http://datascience
 
 ### Work Experience
 
-- Applied Scientist Intern, Amazon Alexa Machine Learning, Seattle (June-Aug 2017)
-...Advisors: Xing Fan and Markus Dreyer
-- Information Retrieval Lab, Universitas Indonesia (2011-2014)
-...Advisor: Mirna Adriani
+- Applied Scientist Intern, Amazon Alexa Machine Learning, Seattle (June-Aug 2017). Advisors: Xing Fan and Markus Dreyer
+- Information Retrieval Lab, Universitas Indonesia (2011-2014). Advisor: Mirna Adriani
 
 ---
 
