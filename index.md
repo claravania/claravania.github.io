@@ -14,7 +14,7 @@ I am also affiliated with the [CDT in Data Science programme](http://datascience
 
 ### Publication
 
-- __\*NEW\*__ __Clara Vania__, Andreas Grivas, and Adam Lopez. *What do character-level models learn about morphology? The case of dependency parsing* To appear at __EMNLP 2018__ [[pdf]](https://arxiv.org/abs/1808.09180)
+- __Clara Vania__, Andreas Grivas, and Adam Lopez. *What do character-level models learn about morphology? The case of dependency parsing.* To appear at __EMNLP 2018__ [[pdf]](https://arxiv.org/abs/1808.09180)
 
 - __Clara Vania__ and Adam Lopez. *From characters to words to in between: Do we capture morphology?* __ACL 2017__ [[pdf]](http://www.aclweb.org/anthology/P17-1184) [[bib]](https://aclanthology.info/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf) [[code]](https://github.com/claravania/subword-lstm-lm)
 
