@@ -14,9 +14,9 @@ I am also affiliated with the [CDT in Data Science programme](http://datascience
 
 ### Publication
 
-- __Clara Vania__, Andreas Grivas, and Adam Lopez. *What do character-level models learn about morphology? The case of dependency parsing.*  __EMNLP 2018__ [[pdf]](http://aclweb.org/anthology/D18-1278) [[poster]](assets/EMNLP2018poster.pdf)
+- __Clara Vania__, Andreas Grivas, and Adam Lopez. *What do character-level models learn about morphology? The case of dependency parsing.*  __EMNLP 2018__ [[pdf]](http://aclweb.org/anthology/D18-1278) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/D18-1278/d18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
 
-- __Clara Vania__ and Adam Lopez. *From characters to words to in between: Do we capture morphology?* __ACL 2017__ [[pdf]](http://www.aclweb.org/anthology/P17-1184) [[bib]](https://aclanthology.info/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf) [[code]](https://github.com/claravania/subword-lstm-lm)
+- __Clara Vania__ and Adam Lopez. *From characters to words to in between: Do we capture morphology?* __ACL 2017__ [[pdf]](http://www.aclweb.org/anthology/P17-1184) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf) [[code]](https://github.com/claravania/subword-lstm-lm)
 
 - __Clara Vania__, Xingxing Zhang, and Adam Lopez. *UParse: the Edinburgh system for the CoNLL 2017 UD shared task.* __CoNLL 2017 UD Shared Task__ [[pdf]](http://universaldependencies.org/conll17/proceedings/pdf/K17-3010.pdf) [[bib]](http://universaldependencies.org/conll17/proceedings/bib/K17-3010.bib) 
 
