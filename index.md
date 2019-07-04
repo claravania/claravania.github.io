@@ -4,13 +4,9 @@ title: Clara Vania
 description: Personal webpage
 ---
 
-I am a final year PhD student at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), University of Edinburgh.  I am supervised by [Adam Lopez](http://alopez.github.io/) and [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/).
+I am a final year PhD student at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), University of Edinburgh, under the supervision of [Adam Lopez](http://alopez.github.io/) and [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/). I am also a member of the [CDT in Data Science](http://datascience.inf.ed.ac.uk/), University of Edinburgh.
 
-My research interests include natural language understanding, multilingual NLP application, representation learning, morphology, and low-resource NLP. My PhD focuses on learning morphological representation for multilingual NLP application.
-
-I am also affiliated with the [CDT in Data Science programme](http://datascience.inf.ed.ac.uk/) (2014 cohort).
-
----
+My main research interest is in the area of natural language understanding. In particular, I am interested in applying machine learning techiques and exploring linguistic resources to understand languages. In my PhD, I study how deep learning (character-level) models learn morphology and how to improve these models using linguistic information. I am also interested in topics related to multilingual and low-resource NLP.
 
 ### Publication
 
@@ -34,7 +30,7 @@ I am also affiliated with the [CDT in Data Science programme](http://datascience
 
 ### Education
 
-- PhD, ILCC/CDT in Data Science, University of Edinburgh (2015-)
+- PhD, ILCC/CDT in Data Science, University of Edinburgh (2015-2019)
 - MSc by Research in Data Science, University of Edinburgh (2014-2015)
 - MSc in Computer Science, Universitas Indonesia (2009-2011)
 - BSc in Computer Science, Universitas Indonesia (2005-2009)
@@ -42,9 +38,9 @@ I am also affiliated with the [CDT in Data Science programme](http://datascience
 ---
 
 ### Work Experience
-
-- Applied Scientist Intern, Amazon Alexa Machine Learning, Seattle (June-Aug 2017). Advisors: Xing Fan and Markus Dreyer
-- Information Retrieval Lab, Universitas Indonesia (2011-2014). Advisor: Mirna Adriani
+- Research Intern, Facebook AI Research (FAIR), Paris (May-August 2019), working with Marco Baroni
+- Applied Scientist Intern, Amazon Alexa Machine Learning, Seattle (June-Aug 2017), working with Markus Dreyer
+- Information Retrieval Lab, Universitas Indonesia (2011-2014), working with Mirna Adriani
 
 ---
 
