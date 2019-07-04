@@ -8,6 +8,8 @@ I am a final year PhD student at the [Institute for Language, Cognition and Comp
 
 My main research interest is in the area of natural language understanding. In particular, I am interested in applying machine learning techiques and exploring linguistic resources to understand languages. In my PhD, I study how deep learning (character-level) models learn morphology and how to improve these models using linguistic information. I am also interested in topics related to multilingual and low-resource NLP.
 
+---
+
 ### Publication
 
 - __Clara Vania__, Andreas Grivas, and Adam Lopez. *What do character-level models learn about morphology? The case of dependency parsing.*  __EMNLP 2018__ [[pdf]](http://aclweb.org/anthology/D18-1278) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/D18-1278/d18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
