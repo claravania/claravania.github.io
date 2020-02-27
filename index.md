@@ -4,7 +4,7 @@ title: Clara Vania
 description: Personal webpage
 ---
 
-I am a Post-Doctoral Associate in the [Center for Data Science](https://cds.nyu.edu), at the New York University, working with [Sam Bowman](https://www.nyu.edu/projects/bowman). Previously, I did my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), University of Edinburgh, under the supervision of [Adam Lopez](http://alopez.github.io/) and [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/). 
+I am a Post-Doctoral Associate at the Center for Data Science, New York University, working with [Sam Bowman](https://www.nyu.edu/projects/bowman). Previously, I did my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), University of Edinburgh, under the supervision of [Adam Lopez](http://alopez.github.io/) and [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/). 
 
 Broadly speaking, my main research interests lie in the area of natural language understanding and machine learning. I am interested in applying machine learning techiques and exploring linguistic resources to help machine learning models understand world's languages. In my PhD, I study how deep learning models represent morphology and how they affect performance of multilingual downstream NLP tasks. I am also interested in topics related to syntax, multilinguality, cross-linguality, low resource NLP, representation learning, and transfer learning.
 
