@@ -32,14 +32,15 @@ Broadly speaking, my main research interests lie in the area of natural language
 
 - __Clara Vania__ and Mirna Adriani. *Automatic external plagiarism detection using passage similarities.* __PAN Plagiarism Detection @ CLEF 2010__ [[pdf]](http://ceur-ws.org/Vol-1176/CLEF2010wn-PAN-VaniaEt2010.pdf)
 
-
+\newline
 #### Journals
 
 - Gözde Gül Şahin, __Clara Vania__, Ilia Kuznetsov, Iryna Gurevych. *LINSPECTOR: Multilingual Probing Tasks for Word Representations.*  __Computational Linguistics (to appear)__ [[arXiv]](https://arxiv.org/abs/1903.09442) [[demo]](https://linspector.ukp.informatik.tu-darmstadt.de)
 
+\newline
 #### Thesis
 
-*On Understanding Character-level Models for Representing Morphology.* __PhD Thesis__, 2019. University of Edinburgh, UK. [[pdf]](assets/clara_phd_thesis.pdf)
+- *On Understanding Character-level Models for Representing Morphology.* __PhD Thesis__, 2019. University of Edinburgh, UK. [[pdf]](assets/clara_phd_thesis.pdf)
 
 ---
 
