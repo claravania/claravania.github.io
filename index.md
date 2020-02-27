@@ -12,7 +12,7 @@ Broadly speaking, my main research interests lie in the area of natural language
 
 ### Publications
 
-## Conference Papers
+#### Conference Papers
 
 - __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. *A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.*  __EMNLP 2019__ [[pdf]](https://www.aclweb.org/anthology/D19-1102) [[bib]](https://www.aclweb.org/anthology/D19-1102.bib) [[poster]](assets/EMNLP2019poster.pdf)
 
