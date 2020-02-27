@@ -30,12 +30,12 @@ Broadly speaking, my main research interests lie in the area of natural language
 
 - __Clara Vania__ and Mirna Adriani. *The effect of syllable and word stress on the quality of Indonesian HMM-based speech synthesis system.* __ICACSIS 2011__ [[pdf]](http://ieeexplore.ieee.org/abstract/document/6140797/)
 
-- __Clara Vania__ and Mirna Adriani. *Automatic external plagiarism detection using passage similarities.* __PAN Plagiarism Detection @ CLEF 2010__ [[pdf]](http://ceur-ws.org/Vol-1176/CLEF2010wn-PAN-VaniaEt2010.pdf)\
+- __Clara Vania__ and Mirna Adriani. *Automatic external plagiarism detection using passage similarities.* __PAN Plagiarism Detection @ CLEF 2010__ [[pdf]](http://ceur-ws.org/Vol-1176/CLEF2010wn-PAN-VaniaEt2010.pdf)
 
 
 #### Journals
 
-- Gözde Gül Şahin, __Clara Vania__, Ilia Kuznetsov, Iryna Gurevych. *LINSPECTOR: Multilingual Probing Tasks for Word Representations.*  __Computational Linguistics (to appear)__ [[arXiv]](https://arxiv.org/abs/1903.09442) [[demo]](https://linspector.ukp.informatik.tu-darmstadt.de)\
+- Gözde Gül Şahin, __Clara Vania__, Ilia Kuznetsov, Iryna Gurevych. *LINSPECTOR: Multilingual Probing Tasks for Word Representations.*  __Computational Linguistics (to appear)__ [[arXiv]](https://arxiv.org/abs/1903.09442) [[demo]](https://linspector.ukp.informatik.tu-darmstadt.de)
 
 
 #### Thesis
@@ -54,9 +54,9 @@ Broadly speaking, my main research interests lie in the area of natural language
 ---
 
 ### Work Experience
-- Research Intern, Facebook AI Research (FAIR), Paris (May-August 2019), working with Marco Baroni
-- Applied Scientist Intern, Amazon Alexa Machine Learning, Seattle (June-Aug 2017), working with Markus Dreyer
-- Information Retrieval Lab, Universitas Indonesia (2011-2014), working with Mirna Adriani
+- Research Intern, Facebook AI Research (FAIR), Paris (May-August 2019), worked with Marco Baroni
+- Applied Scientist Intern, Amazon Alexa Machine Learning, Seattle (June-Aug 2017), worked with Markus Dreyer
+- Information Retrieval Lab, Universitas Indonesia (2011-2014), worked with Mirna Adriani
 
 ---
 
