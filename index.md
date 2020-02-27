@@ -6,15 +6,17 @@ description: Personal webpage
 
 I am a Post-Doctoral Associate in the [Center for Data Science](https://cds.nyu.edu), at the New York University, working with [Sam Bowman](https://www.nyu.edu/projects/bowman). Previously, I did my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), University of Edinburgh, under the supervision of [Adam Lopez](http://alopez.github.io/) and [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/). 
 
-My main research interest is in the area of natural language understanding. In particular, I am interested in applying machine learning techiques and exploring linguistic resources to understand languages. In my PhD, I study how deep learning (character-level) models learn morphology and how to improve these models using linguistic information. I am also interested in topics related to multilingual and low-resource NLP.
+Broadly speaking, my main research interests lie in the area of natural language understanding and machine learning. I am interested in applying machine learning techiques and exploring linguistic resources to help machine learning models understand world's languages. In my PhD, I study how deep learning models represent morphology and how they affect performance of multilingual downstream NLP tasks. I am also interested in topics related to syntax, multilinguality, cross-linguality, low resource NLP, representation learning, and transfer learning.
 
 ---
 
-### Publication
+### Publications
 
-- __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. *A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.*  (to appear at EMNLP 2019) [[arXiv]](https://arxiv.org/pdf/1909.02857.pdf) 
+## Conference Papers
 
-- __Clara Vania__, Andreas Grivas, and Adam Lopez. *What do character-level models learn about morphology? The case of dependency parsing.*  __EMNLP 2018__ [[pdf]](http://aclweb.org/anthology/D18-1278) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/D18-1278/d18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
+- __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. *A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.*  __EMNLP 2019__ [[pdf]](https://www.aclweb.org/anthology/D19-1102) [[bib]](https://www.aclweb.org/anthology/D19-1102.bib) [[poster]](assets/EMNLP2019poster.pdf)
+
+- __Clara Vania__, Andreas Grivas, and Adam Lopez. *What do character-level models learn about morphology? The case of dependency parsing.*  __EMNLP 2018__ [[pdf]](http://aclweb.org/anthology/D18-1278) [[bib]](https://www.aclweb.org/anthology/D18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
 
 - __Clara Vania__ and Adam Lopez. *From characters to words to in between: Do we capture morphology?* __ACL 2017__ [[pdf]](http://www.aclweb.org/anthology/P17-1184) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf) [[code]](https://github.com/claravania/subword-lstm-lm)
 
