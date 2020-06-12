@@ -14,11 +14,11 @@ Broadly speaking, my main research interests lie in the area of natural language
 
 #### Conference Papers
 
-- [English Intermediate-Task Training Improves Zero-Shot Cross-Lingual Transfer Too.] Jason Phang, Phu Mon Htut, Yada Pruksachatkun, Haokun Liu, __Clara Vania__, Katharina Kann, Iacer Calixto, and Samuel R. Bowman. Unpublished manuscript, 2020.
+- [English Intermediate-Task Training Improves Zero-Shot Cross-Lingual Transfer Too.](https://arxiv.org/abs/2005.13013) Jason Phang, Phu Mon Htut, Yada Pruksachatkun, Haokun Liu, __Clara Vania__, Katharina Kann, Iacer Calixto, and Samuel R. Bowman. Unpublished manuscript, 2020.
 
 - [Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?](https://arxiv.org/abs/2005.00628) {Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut}, Xiaoyi Zhang, Richard Yuanzhe Pang, __Clara Vania__, Katharina Kann, and Samuel R. Bowman. ACL 2020.
 
-- [A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.](https://www.aclweb.org/anthology/D19-1102) - __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. EMNLP 2019.
+- [A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.](https://www.aclweb.org/anthology/D19-1102) __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. EMNLP 2019.
 
 - [What do character-level models learn about morphology? The case of dependency parsing.](http://aclweb.org/anthology/D18-1278) __Clara Vania__, Andreas Grivas, and Adam Lopez. EMNLP 2018. [[bib]](https://www.aclweb.org/anthology/D18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
 
