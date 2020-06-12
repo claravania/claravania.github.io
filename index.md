@@ -20,7 +20,7 @@ Broadly speaking, my main research interests lie in the area of natural language
 
 - [A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.](https://www.aclweb.org/anthology/D19-1102) __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. EMNLP 2019.
 
-- [What do character-level models learn about morphology? The case of dependency parsing.](http://aclweb.org/anthology/D18-1278) __Clara Vania__, Andreas Grivas, and Adam Lopez. EMNLP 2018. [[bib]](https://www.aclweb.org/anthology/D18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
+- [What do character-level models learn about morphology? The case of dependency parsing.](http://aclweb.org/anthology/D18-1278) __Clara Vania__, Andreas Grivas, and Adam Lopez. EMNLP 2018.
 
 - [From characters to words to in between: Do we capture morphology?](http://www.aclweb.org/anthology/P17-1184) __Clara Vania__ and Adam Lopez. ACL 2017. [[code]](https://github.com/claravania/subword-lstm-lm)
 
