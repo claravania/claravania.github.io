@@ -10,37 +10,27 @@ Broadly speaking, my main research interests lie in the area of natural language
 
 ---
 
-### Publications
+### Selected Publications
 
 #### Conference Papers
 
-- __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. *A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.*  __EMNLP 2019__ [[pdf]](https://www.aclweb.org/anthology/D19-1102) [[bib]](https://www.aclweb.org/anthology/D19-1102.bib) [[poster]](assets/EMNLP2019poster.pdf)
+- [[A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.]](https://www.aclweb.org/anthology/D19-1102) - __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. EMNLP 2019.  [[bib]](https://www.aclweb.org/anthology/D19-1102.bib) [[poster]](assets/EMNLP2019poster.pdf)
 
-- __Clara Vania__, Andreas Grivas, and Adam Lopez. *What do character-level models learn about morphology? The case of dependency parsing.*  __EMNLP 2018__ [[pdf]](http://aclweb.org/anthology/D18-1278) [[bib]](https://www.aclweb.org/anthology/D18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
+- [[What do character-level models learn about morphology? The case of dependency parsing.]](http://aclweb.org/anthology/D18-1278) __Clara Vania__, Andreas Grivas, and Adam Lopez. EMNLP 2018. [[bib]](https://www.aclweb.org/anthology/D18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
 
-- __Clara Vania__ and Adam Lopez. *From characters to words to in between: Do we capture morphology?* __ACL 2017__ [[pdf]](http://www.aclweb.org/anthology/P17-1184) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf) [[code]](https://github.com/claravania/subword-lstm-lm)
+- [[From characters to words to in between: Do we capture morphology?]](http://www.aclweb.org/anthology/P17-1184) __Clara Vania__ and Adam Lopez. ACL 2017.  [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf) [[code]](https://github.com/claravania/subword-lstm-lm)
 
-- __Clara Vania__, Xingxing Zhang, and Adam Lopez. *UParse: the Edinburgh system for the CoNLL 2017 UD shared task.* __CoNLL 2017 UD Shared Task__ [[pdf]](http://universaldependencies.org/conll17/proceedings/pdf/K17-3010.pdf) [[bib]](http://universaldependencies.org/conll17/proceedings/bib/K17-3010.bib) 
-
-- Alfan Farizki Wicaksono, __Clara Vania__, Bayu Distiawan, and Mirna Adriani. *Automatically Building a Corpus for Sentiment Analysis on Indonesian Tweets.* __PACLIC 2014__ [[pdf]](http://www.aclweb.org/anthology/Y/Y14/Y14-1024.pdf) [[bib]](http://www.aclweb.org/anthology/Y/Y14/Y14-1024.bib)
-
-- __Clara Vania__, Moh. Ibrahim, and Mirna Adriani. *Sentiment Lexicon Generation for an Under-Resourced Language.* __CICLING 2014 (IJCLA)__ [[pdf]](http://www.gelbukh.com/ijcla/2014-1/IJCLA-2014-1-Complete.pdf#page=59)
-
-- Samuel Louvan, Moh. Ibrahim, Mirna Adriani, __Clara Vania__, B. Distiawan, and MZ. Wanagiri. *University of Indonesia at TREC 2011 Microblog Task.* __TREC 2011__ [[pdf]](http://trec.nist.gov/pubs/trec20/papers/FASILKOM.microblog.update.pdf)
-
-- __Clara Vania__ and Mirna Adriani. *The effect of syllable and word stress on the quality of Indonesian HMM-based speech synthesis system.* __ICACSIS 2011__ [[pdf]](http://ieeexplore.ieee.org/abstract/document/6140797/)
-
-- __Clara Vania__ and Mirna Adriani. *Automatic external plagiarism detection using passage similarities.* __PAN Plagiarism Detection @ CLEF 2010__ [[pdf]](http://ceur-ws.org/Vol-1176/CLEF2010wn-PAN-VaniaEt2010.pdf)
+- [[UParse: the Edinburgh system for the CoNLL 2017 UD shared task.]](http://universaldependencies.org/conll17/proceedings/pdf/K17-3010.pdf) __Clara Vania__, Xingxing Zhang, and Adam Lopez. CoNLL 2017 UD Shared Task [[bib]](http://universaldependencies.org/conll17/proceedings/bib/K17-3010.bib) 
 
 
 #### Journals
 
-- Gözde Gül Şahin, __Clara Vania__, Ilia Kuznetsov, Iryna Gurevych. *LINSPECTOR: Multilingual Probing Tasks for Word Representations.*  __Computational Linguistics (to appear)__ [[arXiv]](https://arxiv.org/abs/1903.09442) [[demo]](https://linspector.ukp.informatik.tu-darmstadt.de)
+- [[Multilingual Probing Tasks for Word Representations.]](https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00376?mobileUi=0). Gözde Gül Şahin, __Clara Vania__, Ilia Kuznetsov, Iryna Gurevych. Computational Linguistics 2020. [[demo]](https://linspector.ukp.informatik.tu-darmstadt.de)
 
 
 #### Thesis
 
-- *On Understanding Character-level Models for Representing Morphology.* __PhD Thesis__, 2019. University of Edinburgh, UK. [[pdf]](assets/clara_phd_thesis.pdf)
+- [[On Understanding Character-level Models for Representing Morphology.]](assets/clara_phd_thesis.pdf) PhD Thesis, 2019. University of Edinburgh, UK.
 
 ---
 
