@@ -14,23 +14,23 @@ Broadly speaking, my main research interests lie in the area of natural language
 
 #### Conference Papers
 
-- [[A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.]](https://www.aclweb.org/anthology/D19-1102) - __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. EMNLP 2019.  [[bib]](https://www.aclweb.org/anthology/D19-1102.bib) [[poster]](assets/EMNLP2019poster.pdf)
+- [A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.](https://www.aclweb.org/anthology/D19-1102) - __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. EMNLP 2019.  [[bib]](https://www.aclweb.org/anthology/D19-1102.bib) [[poster]](assets/EMNLP2019poster.pdf)
 
-- [[What do character-level models learn about morphology? The case of dependency parsing.]](http://aclweb.org/anthology/D18-1278) __Clara Vania__, Andreas Grivas, and Adam Lopez. EMNLP 2018. [[bib]](https://www.aclweb.org/anthology/D18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
+- [What do character-level models learn about morphology? The case of dependency parsing.](http://aclweb.org/anthology/D18-1278) __Clara Vania__, Andreas Grivas, and Adam Lopez. EMNLP 2018. [[bib]](https://www.aclweb.org/anthology/D18-1278.bib) [[poster]](assets/EMNLP2018poster.pdf)
 
-- [[From characters to words to in between: Do we capture morphology?]](http://www.aclweb.org/anthology/P17-1184) __Clara Vania__ and Adam Lopez. ACL 2017.  [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf) [[code]](https://github.com/claravania/subword-lstm-lm)
+- [From characters to words to in between: Do we capture morphology?](http://www.aclweb.org/anthology/P17-1184) __Clara Vania__ and Adam Lopez. ACL 2017.  [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P17-1184/p17-1184.bib) [[poster]](http://anthology.aclweb.org/attachments/P/P17/P17-1184.Poster.pdf) [[code]](https://github.com/claravania/subword-lstm-lm)
 
-- [[UParse: the Edinburgh system for the CoNLL 2017 UD shared task.]](http://universaldependencies.org/conll17/proceedings/pdf/K17-3010.pdf) __Clara Vania__, Xingxing Zhang, and Adam Lopez. CoNLL 2017 UD Shared Task [[bib]](http://universaldependencies.org/conll17/proceedings/bib/K17-3010.bib) 
+- [UParse: the Edinburgh system for the CoNLL 2017 UD shared task.](http://universaldependencies.org/conll17/proceedings/pdf/K17-3010.pdf) __Clara Vania__, Xingxing Zhang, and Adam Lopez. CoNLL 2017 UD Shared Task [[bib]](http://universaldependencies.org/conll17/proceedings/bib/K17-3010.bib) 
 
 
 #### Journals
 
-- [[Multilingual Probing Tasks for Word Representations.]](https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00376?mobileUi=0). Gözde Gül Şahin, __Clara Vania__, Ilia Kuznetsov, Iryna Gurevych. Computational Linguistics 2020. [[demo]](https://linspector.ukp.informatik.tu-darmstadt.de)
+- [Multilingual Probing Tasks for Word Representations.](https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00376?mobileUi=0). Gözde Gül Şahin, __Clara Vania__, Ilia Kuznetsov, Iryna Gurevych. Computational Linguistics 2020. [[demo]](https://linspector.ukp.informatik.tu-darmstadt.de)
 
 
 #### Thesis
 
-- [[On Understanding Character-level Models for Representing Morphology.]](assets/clara_phd_thesis.pdf) PhD Thesis, 2019. University of Edinburgh, UK.
+- [On Understanding Character-level Models for Representing Morphology.](assets/clara_phd_thesis.pdf) PhD Thesis, 2019. University of Edinburgh, UK.
 
 ---
 
