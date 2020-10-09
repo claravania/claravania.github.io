@@ -14,9 +14,9 @@ Broadly speaking, my main research interests lie in the area of natural language
 
 #### Conference Papers
 
-- [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf). Nikita Nangia, __Clara Vania__, Rasika Bhalerao, and Samuel R. Bowman. EMNLP 2020.
+- [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf). {Nikita Nangia, __Clara Vania__, Rasika Bhalerao}, and Samuel R. Bowman. EMNLP 2020.
 
-- Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options. __Clara Vania__, and Ruijie Chen, Samuel R. Bowman. AACL 2020.
+- Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options. __Clara Vania__, Ruijie Chen, and Samuel R. Bowman. AACL 2020.
 
 - [English Intermediate-Task Training Improves Zero-Shot Cross-Lingual Transfer Too.](https://arxiv.org/abs/2005.13013v2) Jason Phang, Phu Mon Htut, Yada Pruksachatkun, Haokun Liu, __Clara Vania__, Katharina Kann, Iacer Calixto, and Samuel R. Bowman. AACL 2020.
 
