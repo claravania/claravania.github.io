@@ -7,20 +7,19 @@ description: Personal webpage
 I am an Applied Scientist in the Amazon Alexa team in Cambridge. Before that, I was a Post-Doctoral Associate at the Center for Data Science, New York University, where I worked with [Sam Bowman](https://www.nyu.edu/projects/bowman) on crowdsourcing and transfer learning for NLU. I got my PhD from the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), University of Edinburgh, under the supervision of [Adam Lopez](http://alopez.github.io/) and [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/). 
 
 My main research interests lie in the area of natural language understanding and machine learning. I am interested in applying machine learning techiques and exploring linguistic resources to help machine learning models understand world's languages. I am also interested in topics related to syntax, multilinguality, cross-linguality, low resource NLP, representation learning, and transfer learning.
-
 ---
 
 ### Selected Publications
 
 #### Conference Papers
 
-- [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf). {Nikita Nangia, __Clara Vania__, Rasika Bhalerao}, and Samuel R. Bowman. EMNLP 2020.
+- [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133). {Nikita Nangia, __Clara Vania__, Rasika Bhalerao}, and Samuel R. Bowman. EMNLP 2020.
 
-- Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options. __Clara Vania__, Ruijie Chen, and Samuel R. Bowman. AACL 2020.
+- [Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options.](https://arxiv.org/abs/2010.06122) __Clara Vania__, Ruijie Chen, and Samuel R. Bowman. AACL 2020.
 
 - [English Intermediate-Task Training Improves Zero-Shot Cross-Lingual Transfer Too.](https://arxiv.org/abs/2005.13013v2) Jason Phang, Phu Mon Htut, Yada Pruksachatkun, Haokun Liu, __Clara Vania__, Katharina Kann, Iacer Calixto, and Samuel R. Bowman. AACL 2020.
 
-- [Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?](https://arxiv.org/abs/2005.00628) {Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut}, Xiaoyi Zhang, Richard Yuanzhe Pang, __Clara Vania__, Katharina Kann, and Samuel R. Bowman. ACL 2020.
+- [Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?](https://www.aclweb.org/anthology/2020.acl-main.467/) {Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut}, Xiaoyi Zhang, Richard Yuanzhe Pang, __Clara Vania__, Katharina Kann, and Samuel R. Bowman. ACL 2020.
 
 - [A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages.](https://www.aclweb.org/anthology/D19-1102) __Clara Vania__, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez. EMNLP 2019.
 
